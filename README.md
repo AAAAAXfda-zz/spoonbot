@@ -1,4 +1,4 @@
-# feurbot
+# spoonbot
 Un bot Discord très simple et pourtant essentiel pour tout bon serveur qui se respecte
 
 ### ajoutez le à votre serveur !
